@@ -77,6 +77,10 @@
 <br>
 <br>
 
+-----
+
+<br>
+<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -88,9 +92,42 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aminulislamabid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
 </a>
 
+</div>
+
+<br>
 <br>
 <br>
 
+-----
+
+<br>
+<br>
+
+## <b> Let's Connect..!</b><img src="https://github.com/aminulislamabid/aminulislamabid/raw/main/assets/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://www.facebook.com/profile.php?id=61556284444046" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:aminul.i.abid@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+</ul>
+</div>
+
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
 <br>
